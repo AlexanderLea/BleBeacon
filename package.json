@@ -11,5 +11,8 @@
     "url": "github.com/alexanderlea/blebeacon"
   },
   "author": "Alexander Lea",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eddystone-beacon": "^1.0.6"
+  }
 }
