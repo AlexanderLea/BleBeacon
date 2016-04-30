@@ -1,0 +1,15 @@
+{
+  "name": "blebeacon",
+  "version": "1.0.0",
+  "description": "Playground for BLE Beacons & physical web",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alexanderlea/blebeacon"
+  },
+  "author": "Alexander Lea",
+  "license": "MIT"
+}
